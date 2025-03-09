@@ -9,9 +9,9 @@
   ],
   "version": "1.0.0",
   "vendetta": {
-    "patcher": "src/index.js",
-    "settings": "src/settings.js"
+    "patcher": "src/index.ts",
+    "settings": "src/settings.ts"
   },
   "source": "https://github.com/RD171093/kokon-logger",
-  "update_url": "https://raw.githubusercontent.com/RD171093/kokon-logger/main/manifest.json"
+  "update_url": "https://raw.githubusercontent.com/RD171093/kokon-logger/main/src/manifest.json"
 }
