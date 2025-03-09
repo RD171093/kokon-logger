@@ -1,0 +1,17 @@
+{
+  "name": "Message Logger",
+  "description": "Logs deleted messages locally and allows clearing them via settings.",
+  "authors": [
+    {
+      "name": "YourName",
+      "id": "your_discord_id"
+    }
+  ],
+  "version": "1.0.0",
+  "vendetta": {
+    "patcher": "src/index.js",
+    "settings": "src/settings.js"
+  },
+  "source": "https://github.com/yourusername/my-vendetta-plugin",
+  "update_url": "https://raw.githubusercontent.com/yourusername/my-vendetta-plugin/main/manifest.json"
+}
